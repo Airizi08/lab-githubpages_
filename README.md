@@ -9,3 +9,4 @@ https://airizi08.github.io/lab-githubpages_/
 
 Notes
 This project is for learning purposes only
+https://github.com/Airizi08/lab-githubpages_/blob/main/report.pdf
